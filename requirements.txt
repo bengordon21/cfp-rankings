@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+statsmodels
+shap
+python-dotenv
+requests
+matplotlib
+joblib
+tabulate
+pytest
+streamlit
+plotly

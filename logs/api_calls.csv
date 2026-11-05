@@ -1,0 +1,60 @@
+utc_time,cache_name,path,status,network_call,note
+2026-11-05T02:25:24+00:00,info,/info,200,1,
+2026-11-05T02:25:24+00:00,rankings_cfp_2026,/rankings,200,1,"{'year': 2026, 'poll': 'cfp'}"
+2026-11-05T02:25:25+00:00,teams_fbs_2026,/teams/fbs,200,1,{'year': 2026}
+2026-11-05T02:25:25+00:00,ratings_sp_2026,/ratings/sp,200,1,{'year': 2026}
+2026-11-05T02:25:26+00:00,ratings_srs_2026,/ratings/srs,200,1,{'year': 2026}
+2026-11-05T02:25:26+00:00,ratings_elo_2026,/ratings/elo,200,1,{'year': 2026}
+2026-11-05T02:25:27+00:00,ratings_fpi_2026,/ratings/fpi,200,1,{'year': 2026}
+2026-11-05T02:25:27+00:00,info,/info,200,1,
+2026-11-05T02:25:27+00:00,info,/info,200,1,
+2026-11-05T02:25:41+00:00,games_2026_regular,/games,200,1,"{'year': 2026, 'seasonType': 'regular'}"
+2026-11-05T02:25:42+00:00,conferences,/conferences,200,1,{}
+2026-11-05T02:25:44+00:00,ppa_teams_2026_w10,/ppa/teams,200,1,"{'year': 2026, 'excludeGarbageTime': 'true'}"
+2026-11-05T02:25:52+00:00,stats_adv_2026_w10,/stats/season/advanced,200,1,"{'year': 2026, 'endWeek': 10, 'excludeGarbageTime': 'true'}"
+2026-11-05T02:25:53+00:00,rankings_all_2026,/rankings,200,1,"{'year': 2026, 'seasonType': 'regular'}"
+2026-11-05T02:25:54+00:00,info,/info,200,1,
+2026-11-05T02:27:14+00:00,stats_adv_rel10,/stats/season/advanced,200,1,"{'year': 2026, 'endWeek': 9, 'excludeGarbageTime': 'true'}"
+2026-11-05T02:27:15+00:00,info,/info,200,1,
+2026-11-05T02:33:18+00:00,teams_fbs,/teams/fbs,cache,0,
+2026-11-05T02:33:18+00:00,conferences,/conferences,cache,0,
+2026-11-05T02:33:18+00:00,games_rel10,/games,cache,0,
+2026-11-05T02:33:18+00:00,ratings_sp_rel10,/ratings/sp,cache,0,
+2026-11-05T02:33:18+00:00,ratings_srs_rel10,/ratings/srs,cache,0,
+2026-11-05T02:33:18+00:00,ratings_elo_rel10,/ratings/elo,cache,0,
+2026-11-05T02:33:18+00:00,ratings_fpi_rel10,/ratings/fpi,cache,0,
+2026-11-05T02:33:18+00:00,stats_adv_rel10,/stats/season/advanced,cache,0,
+2026-11-05T02:33:18+00:00,cfp_rankings_wk10,/rankings,cache,0,
+2026-11-05T02:33:18+00:00,info,/info,200,1,
+2026-11-05T02:33:18+00:00,teams_fbs,/teams/fbs,cache,0,
+2026-11-05T02:33:18+00:00,conferences,/conferences,cache,0,
+2026-11-05T02:33:18+00:00,games_rel10,/games,cache,0,
+2026-11-05T02:33:18+00:00,ratings_sp_rel10,/ratings/sp,cache,0,
+2026-11-05T02:33:18+00:00,ratings_srs_rel10,/ratings/srs,cache,0,
+2026-11-05T02:33:18+00:00,ratings_elo_rel10,/ratings/elo,cache,0,
+2026-11-05T02:33:18+00:00,ratings_fpi_rel10,/ratings/fpi,cache,0,
+2026-11-05T02:33:18+00:00,stats_adv_rel10,/stats/season/advanced,cache,0,
+2026-11-05T02:33:47+00:00,teams_fbs,/teams/fbs,cache,0,
+2026-11-05T02:33:47+00:00,conferences,/conferences,cache,0,
+2026-11-05T02:33:47+00:00,games_rel10,/games,cache,0,
+2026-11-05T02:33:47+00:00,ratings_sp_rel10,/ratings/sp,cache,0,
+2026-11-05T02:33:47+00:00,ratings_srs_rel10,/ratings/srs,cache,0,
+2026-11-05T02:33:47+00:00,ratings_elo_rel10,/ratings/elo,cache,0,
+2026-11-05T02:33:47+00:00,ratings_fpi_rel10,/ratings/fpi,cache,0,
+2026-11-05T02:33:47+00:00,stats_adv_rel10,/stats/season/advanced,cache,0,
+2026-11-05T02:33:47+00:00,info,/info,200,1,
+2026-11-05T02:33:56+00:00,teams_fbs,/teams/fbs,cache,0,
+2026-11-05T02:33:56+00:00,conferences,/conferences,cache,0,
+2026-11-05T02:33:56+00:00,games_rel10,/games,cache,0,
+2026-11-05T02:33:56+00:00,ratings_sp_rel10,/ratings/sp,cache,0,
+2026-11-05T02:33:56+00:00,ratings_srs_rel10,/ratings/srs,cache,0,
+2026-11-05T02:33:56+00:00,ratings_elo_rel10,/ratings/elo,cache,0,
+2026-11-05T02:33:56+00:00,ratings_fpi_rel10,/ratings/fpi,cache,0,
+2026-11-05T02:33:56+00:00,stats_adv_rel10,/stats/season/advanced,cache,0,
+2026-11-05T02:33:56+00:00,info,/info,200,1,
+2026-11-05T02:33:57+00:00,cfp_rankings_wk10,/rankings,cache,0,
+2026-11-05T02:33:57+00:00,polls_all_wk10,/rankings,cache,0,
+2026-11-05T02:33:57+00:00,info,/info,200,1,
+2026-11-05T02:34:07+00:00,cfp_rankings_wk10,/rankings,cache,0,
+2026-11-05T02:34:07+00:00,polls_all_wk10,/rankings,cache,0,
+2026-11-05T02:34:07+00:00,info,/info,200,1,
